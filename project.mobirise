@@ -522,7 +522,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/voltron-media-02-1152x864.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -540,7 +540,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/voltron-media-04-1152x864.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
